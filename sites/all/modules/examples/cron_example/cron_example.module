@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Demonstrates use of the Cron API in Drupal - hook_cron()
+ * Demonstrates use of the Cron API in Drupal - hook_cron() - modification
  */
 
 /**
